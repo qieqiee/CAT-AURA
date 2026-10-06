@@ -1,0 +1,20 @@
+{
+  "canvas_size": [
+    498,
+    498
+  ],
+  "loop": 0,
+  "frames": [
+    {
+      "file": "cat_closed.png",
+      "source_frame": 0,
+      "duration_ms": 100
+    },
+    {
+      "file": "cat_open.png",
+      "source_frame": 1,
+      "duration_ms": 100
+    }
+  ],
+  "notes": "Both frames retain identical source coordinates; no independent cropping."
+}
